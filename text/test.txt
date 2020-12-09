@@ -1,0 +1,4 @@
+this is text coming from an external file
+this is the second line
+this is the third line
+it is your birthday
